@@ -1,0 +1,7 @@
+#Fichier de l'application
+node_modules
+package-lock.json
+#Fichiers source
+src/files
+#Fichiers de logs
+logs/

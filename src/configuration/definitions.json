@@ -1,0 +1,6 @@
+{
+    "&quot;)\"": "\"",
+    "animate=\"animCapacity(&quot;": "capacity=\"",
+    "animate=\"capacityAssignment(&quot;": "capacity-assignment=\"",
+    "animate=\"fanState(&quot;": "fan=\""
+}
